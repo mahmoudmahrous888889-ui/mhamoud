@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Say hello on merge
-        run: echo "Hello from GitHub Actions , mahrous"
+        run: echo "Hello from GitHub Actions , mahrousemara"
 
   pr-closed-without-merge:
     name: PR was closed without merging
