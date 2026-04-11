@@ -41,3 +41,5 @@ jobs:
         run: | 
               python --version
               which python3
+      - name: date of the runner
+        run: date      
